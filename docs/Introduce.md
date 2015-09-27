@@ -124,7 +124,7 @@ Packages in Java is a mechanism to encapsulate a group of classes, interfaces an
 * Final method: A final method cannot be overridden. Which means even though a sub class can call the final method of parent class without any issues but it cannot override it.
 * Final class: We cannot extend a final class.
 
-Final`[code example](https://github.com/kaiyuean/presentation1/blob/master/src/Final.java)
+`Final`[code example](https://github.com/kaiyuean/presentation1/blob/master/src/Final.java)
 
 [Learn more about final](https://docs.oracle.com/javase/tutorial/java/IandI/final.html)
 
