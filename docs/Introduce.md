@@ -153,6 +153,8 @@ Packages in Java is a mechanism to encapsulate a group of classes, interfaces an
 
 <hr>
 
+## Syntax
+
 * Datatypes
     * byte, short, int, long, float, double, boolean, char.
 * Variable Types
