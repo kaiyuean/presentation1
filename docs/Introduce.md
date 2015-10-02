@@ -153,6 +153,37 @@ Packages in Java is a mechanism to encapsulate a group of classes, interfaces an
 
 <hr>
 
+* Datatypes
+    * byte, short, int, long, float, double, boolean, char.
+* Variable Types
+    * Local variables: declared in methods, constructors, or blocks.
+    * Instance variables: declared in a class, but outside a method, constructor or any block.
+    * Class/static variables: declared with the static keyword in a class, but outside a method, constructor or a block.
+* Basic Operators
+    * Arithmetic Operators: +, -, *, /, %, ++, --
+    * Relational Operators: ==, !=, >, <, >=, <=
+    * Bitwise Operators: &, |, ^, ~, <<, >>, >>>
+    * Logical Operators: &&, ||, !
+    * Assignment Operators: =, +=, -=, *=, /=, %=, &=, |=, ^=, <<=, >>=
+    * Misc Operators
+    * Conditional Operator ( ? : )
+    * instance of Operator
+
+* Loop Control
+    * while
+    * for
+    * do...while
+* Decision Making
+    * if
+    * if...else
+    * nested 
+    * switch
+* String
+* Array
+* Date & Time
+
+<hr>
+
 ## Java vs C++
 
 The syntax of Java is largely derived from C++. Unlike C++, 
@@ -215,7 +246,6 @@ Exceptions explains the exception mechanism and how it is used to handle errors 
 * Before you can catch an exception, some code somewhere must throw one. Any code can throw an exception: your code, code from a package written by someone else such as the packages that come with the Java platform, or the Java runtime environment. Regardless of what throws the exception, it's always thrown with the throw statement.
 
 ### Basic I/O
-
 
 * I/O Streams: An I/O Stream represents an input source or an output destination. A stream can represent many different kinds of sources and destinations, including disk files, devices, other programs, and memory arrays.
     * Byte Streams handle I/O of raw binary data.
