@@ -197,6 +197,8 @@ The syntax of Java is largely derived from C++. Unlike C++,
 * java.beans
 * java.awt
 
+<hr>
+
 ## Essential Java Classes 
 
 ### Exceptions
