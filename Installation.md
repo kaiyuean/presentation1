@@ -1,4 +1,4 @@
-# Instructions on how to install IDEs and run code examples.
+## Instructions on how to install IDEs and run code examples.
 
 ## Top 3 free IDEs for java coding:
 
