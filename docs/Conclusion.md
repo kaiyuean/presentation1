@@ -21,3 +21,17 @@ Java is inherently object-oriented, which means that Java programs are made up o
 ### The Java API
 
 The Java language itself is very simple. However, Java comes with a library of classes that provide commonly used utility functions that most Java programs can't do without. This class library, called the Java API, is as much a part of Java as the language itself. The Java API has several thousand classes — with tens of thousands of methods you can use in your programs.
+
+## References
+
+Liz Boese's Lecture Slides
+
+Wikipedia
+
+https://docs.oracle.com/javase/tutorial/java/index.html
+
+http://beginnersbook.com/java-tutorial-for-beginners-with-examples/
+
+http://www.tutorialspoint.com/java/java_abstraction.htm
+
+http://www.javatpoint.com/java-tutorial
