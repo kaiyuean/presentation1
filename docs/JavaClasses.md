@@ -26,7 +26,7 @@ Exceptions explains the exception mechanism and how it is used to handle errors 
 
 * Advantages of Exceptions
     * Separating error-handling code from "regular" code
-    * propagating errors up the call stack
+    * Propagating errors up the call stack
 
 ### Basic I/O
 
@@ -105,4 +105,14 @@ The Java platform is designed from the ground up to support concurrent programmi
 
 Regular expressions are a way to describe a set of strings based on common characteristics shared by each string in the set. They can be used to search, edit, or manipulate text and data.
 
-* Test Harness, String Literals, Character Classes, Predefined Character Classes, Quantifiers, Capturing Groups, Boundary Matchers, Methods of the Pattern Class, Methods of the Matcher Class, Methods of the PatternSyntaxException Class.
+* Test Harness
+* String Literals
+* Character Classes
+* Predefined Character Classes
+* Quantifiers
+* Capturing Groups
+* Boundary Matchers
+* Methods of the Pattern Class
+* Methods of the Matcher Class
+* Methods of the PatternSyntaxException Class
+* Unicode Support
