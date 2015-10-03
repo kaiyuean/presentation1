@@ -5,25 +5,20 @@
 Exceptions explains the exception mechanism and how it is used to handle errors and other exceptional conditions.
 
 * An exception is an event, which occurs during the execution of a program, that disrupts the normal flow of the program's instructions.
-
 * Valid Java programming language code must honor the Catch or Specify Requirement. This means that code that might throw certain exceptions must be enclosed by either of the following:
     * A try statement that catches the exception.
     * A method that specifies that it can throw the exception.
-
 * Three Kinds of Exceptions
     * Checked exception: These are exceptional conditions that a well-written application should anticipate and recover from.
     * Error: These are exceptional conditions that are external to the application, and that the application usually cannot anticipate or recover from.
     * Runtime exception: These are exceptional conditions that are internal to the application, and that the application usually cannot anticipate or recover from. These usually indicate programming bugs, such as logic errors or improper use of an API. 
-
 * Catching and Handling Exceptions
     * Three exception handler components — the try, catch, and finally blocks
     * The try block identifies a block of code in which an exception can occur.
     * The catch block identifies a block of code, known as an exception handler, that can handle a particular type of exception.
     * The finally block identifies a block of code that is guaranteed to execute, and is the right place to close files, recover resources, and otherwise clean up after the code enclosed in the try block.
     * [code example](https://github.com/kaiyuean/presentation1/blob/master/src/Exceptions.java)
-
 * Before you can catch an exception, some code somewhere must throw one. Any code can throw an exception: your code, code from a package written by someone else such as the packages that come with the Java platform, or the Java runtime environment. Regardless of what throws the exception, it's always thrown with the throw statement.
-
 * Advantages of Exceptions
     * Separating error-handling code from "regular" code
     * Propagating errors up the call stack
