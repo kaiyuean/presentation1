@@ -37,6 +37,28 @@
 
 }
 ```
-* String
-* Array
+* String: Strings, which are widely used in Java programming, are a sequence of characters. In the Java programming language, strings are objects. The Java platform provides the String class to create and manipulate strings.
+    * Creating Strings: 
+    ```
+    String greeting = "Hello world!";
+
+    char[] helloArray = { 'h', 'e', 'l', 'l', 'o', '.' };
+
+    String helloString = new String(helloArray);
+
+    System.out.println(helloString);
+    ```
+    * String Length
+    ```
+    String palindrome = "Dot saw I was Tod";
+
+    int len = palindrome.length();
+    ```
+* Array: An array is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed. 
+
+`Array`[code example](https://github.com/kaiyuean/presentation1/blob/master/src/Array.java)
 * Date & Time
+
+
+
+
