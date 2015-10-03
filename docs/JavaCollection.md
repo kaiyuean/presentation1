@@ -44,7 +44,6 @@ A collection — sometimes called a container — is simply an object that group
 * Wrapper implementations are used in combination with other types of implementations, often the general-purpose ones, to provide added or restricted functionality.
 * Convenience implementations are mini-implementations, typically made available via static factory methods, that provide convenient, efficient alternatives to general-purpose implementations for special collections (for example, singleton sets).
 * Abstract implementations are skeletal implementations that facilitate the construction of custom implementations — described later in the Custom Collection Implementations section. An advanced topic, it's not particularly difficult, but relatively few people will need to do it.
-
 * Set Implementations
 	* General-purpose set implementations
 		* There are three general-purpose Set implementations — HashSet, TreeSet, and LinkedHashSet. Which of these three to use is generally straightforward. 
