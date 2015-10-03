@@ -28,15 +28,15 @@
     * nested(if/else) 
     * switch
 * Enum Type: An enum type is a special data type that enables for a variable to be a set of predefined constants. The variable must be equal to one of the values that have been predefined for it. 
-```
- public enum Day {
+    ```
+    public enum Day {
 
-    SUNDAY, MONDAY, TUESDAY, WEDNESDAY,
+        SUNDAY, MONDAY, TUESDAY, WEDNESDAY,
 
-    THURSDAY, FRIDAY, SATURDAY 
+        THURSDAY, FRIDAY, SATURDAY 
 
-}
-```
+    }
+    ```
 * String: Strings, which are widely used in Java programming, are a sequence of characters. In the Java programming language, strings are objects. The Java platform provides the String class to create and manipulate strings.
     * Creating Strings: 
     ```
@@ -56,7 +56,7 @@
     ```
 * Array: An array is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed. 
 
-`Array`[code example](https://github.com/kaiyuean/presentation1/blob/master/src/Array.java)
+    `Array`[code example](https://github.com/kaiyuean/presentation1/blob/master/src/Array.java)
 * Date & Time
 
 
