@@ -12,10 +12,6 @@ An entity that has state and behavior is known as an object. Object is an instan
 
 `Object`[code example](https://github.com/kaiyuean/presentation1/blob/master/src/Object.java)
 
-
-
-
-
 ### Constructor
 
 Constructor is a block of code, which runs when you use new keyword in order to instantiate an object.
