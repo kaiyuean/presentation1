@@ -35,3 +35,5 @@ http://beginnersbook.com/java-tutorial-for-beginners-with-examples/
 http://www.tutorialspoint.com/java/java_abstraction.htm
 
 http://www.javatpoint.com/java-tutorial
+
+http://www.dummies.com/how-to/content/what-is-java-and-why-is-it-so-great.html
